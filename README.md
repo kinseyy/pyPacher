@@ -8,7 +8,7 @@ Link: https://drive.google.com/file/d/1s0YF8KKdndtUUJs340bWlxjf8W-uTUZL/view?usp
 # Make OBF
 After installation you must find a file "pyPacher.exe". 
 Open a CMD in the folder with the file "pyPacher.exe", move your python code in this folder and write a special command.
-special command: "pyPacher.exe <Your code file name>.py -p bz2"
+special command: "pyPacher.exe | Your code file name |.py -p bz2"
 
 info:
 
